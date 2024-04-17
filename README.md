@@ -1,3 +1,3 @@
-# Orchideja-Stalas
+# OrchidejaStalo
 Žaidimo pavadinimas - Mystic Brew Bazaras ;)
 
