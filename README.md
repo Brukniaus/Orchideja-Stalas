@@ -1,2 +1,3 @@
 # Orchideja-Stalas
-informatika
+Žaidimo pavadinimas - šponkes ;)
+
