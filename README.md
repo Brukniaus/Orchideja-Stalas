@@ -1,3 +1,3 @@
 # Orchideja-Stalas
-Žaidimo pavadinimas - šponkes ;)
+Žaidimo pavadinimas - Mystic Brew Bazaras ;)
 
